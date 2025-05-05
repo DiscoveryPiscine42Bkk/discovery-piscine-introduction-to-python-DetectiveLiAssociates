@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def find_the_redheads(searchHair:dict)->list:   
-    return list(map(lambda name:name.capitalize(),filter(lambda name:searchHair[name]=="red",searchHair.keys())))
+    return list(filter(lambda name:searchHair[name]=="red",searchHair.keys()))
 
 if __name__ == "__main__":
 
