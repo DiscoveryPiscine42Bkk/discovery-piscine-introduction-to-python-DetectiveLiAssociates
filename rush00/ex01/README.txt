@@ -36,8 +36,7 @@ C. PERFORMANCE:
        Queen(Q), Bishop(B), Rook(R), Pawn (P) onto the same chessboard at once.
     
     2. The 4-Suspects can be Easily Reduced to 1 or 3, depending on the needs of the Player.
-       The Chessboard tiles also can be Easily Reduced or Expanded, depending on the needs
-       of the Player.
+       The Chessboard tiles also can be Easily Resized, depending on the needs of the Player.
 
     3. All 4-Suspects would be Randomly Placed by the game software at the start,
        Automatically.
