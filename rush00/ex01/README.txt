@@ -47,8 +47,8 @@ C. PERFORMANCE:
     
     5. The Logic Reasoning behind this issue is that, if the King(K) is also part of
        the Random Placement at the start, with 4-Enemies surrounding 1-King, the chance
-       of probability that the King(K) would be directly Checkmated by the 4-Suspects
-       reaches >90% possibility. Thus, if so, the game would END at its very start.
+       that the King(K) would be directly Checkmated by the 4-Suspects reaches >90% probability.
+       Thus - if so - the game would END as soon as the game kickstarts, leaving nothing-fun to play.
 
     6. The Mission of this mini-game would be: for the Player to Position the King(K)
        on the Chessboard, in a Clean-Single move, with a hope that the King(K) would
